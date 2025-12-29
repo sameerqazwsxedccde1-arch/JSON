@@ -1,0 +1,36 @@
+{
+  "bypassVersion": 5,
+  "bypassLink": "https://github.com/sameerqazwsxedccde1-arch/BYPASS/releases/download/Bypass/assets.zip" 
+    "gamesList": [
+    {
+      "title": "PUBG GLOBAL",
+      "package": "com.tencent.ig",
+      "version": "4.1",
+      "status": "Safe"
+    },
+    {
+      "title": "PUBG KOREA",
+      "package": "com.pubg.krmobile",
+      "version": "4.1",
+      "status": "Safe"
+    },
+      {
+        "title": "PUBG VIETNAM",
+        "package": "com.vng.pubgmobile",
+        "version": "4.1",
+        "status": "Safe"
+      },
+    {
+      "title": "PUBG TAIWAN",
+      "package": "com.rekoo.pubgm",
+      "version": "4.1",
+      "status": "Safe"
+    },
+      {
+        "title": "PUBG INDIA",
+        "package": "com.pubg.imobile",
+        "version": "4.1",
+        "status": "Safe"
+      }
+  ]
+}
